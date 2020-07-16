@@ -23,7 +23,7 @@ class BankAccount
     end
   end
 
-  def close_acount 
+  def close_acount
     @status = "closed"
-
+  end
 end
